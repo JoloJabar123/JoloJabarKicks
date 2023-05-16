@@ -1,0 +1,20 @@
+h1 {
+	background-color: red;
+	color: white;
+	padding: 10px;
+	margin: 5px;
+}
+p b {
+	color: white;
+	background-color: red;
+}
+b {
+	background-color: purple;
+	color: white;
+}
+body {
+	background-color: black;
+}
+button a {
+	padding: 30px;
+}
